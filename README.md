@@ -7,5 +7,11 @@ The project aims to create an intelligent system capable of generating questions
 3.	Provide accurate answers to the generated questions using the information from the same paragraph.
 
 # Technology/Methodologies
+- Language: Python programming, 
+- NLP libraries: NLTK, spaCy
+- Pre-trained models: BERT, T5
+- Text-pre-processing techniques: Tokenization, Stemming, Lemmatization
+- Evaluation metrics: BLEU, ROUGE
+  
 # Dataset:
 https://www.kaggle.com/datasets/pragyakatyayan/squad-v20-dataset-complete-excel-file
