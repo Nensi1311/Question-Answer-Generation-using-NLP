@@ -9,7 +9,7 @@ The project aims to create an intelligent system capable of generating questions
 - NLP libraries: NLTK, spaCy
 - Pre-trained models: BERT, T5
 - Text-pre-processing techniques: Tokenization, Stemming, Lemmatization
-- Evaluation metrics: BLEU, ROUGE
+- Evaluation metrics: BLEU, ROUGE, F1-Score
   
-# Dataset:
+# Dataset
 https://www.kaggle.com/datasets/parthplc/ms-marco-dataset
