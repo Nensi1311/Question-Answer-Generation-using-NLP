@@ -14,4 +14,4 @@ The project aims to create an intelligent system capable of generating questions
 - Evaluation metrics: BLEU, ROUGE
   
 # Dataset:
-https://www.kaggle.com/datasets/pragyakatyayan/squad-v20-dataset-complete-excel-file
+https://www.kaggle.com/datasets/parthplc/ms-marco-dataset
